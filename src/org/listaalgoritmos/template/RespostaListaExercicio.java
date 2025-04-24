@@ -9,7 +9,7 @@ public class RespostaListaExercicio {
 	 * Não se faz necessário implementar dentro do escopo do método.
 	 */
 	public static void main(String[] args) {
-		calcularImc(100, 190);
+		
 	}
 	
 	/**
